@@ -4,11 +4,21 @@
   <p><strong>AI-powered receipt processing for Indian logistics workflows.</strong></p>
   <p>OCRBridge is a lightweight pipeline that converts receipt documents into structured, usable business data.</p>
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-    <img src="https://img.shields.io/badge/Gemini%20API-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    </a>
+    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+    </a>
+    <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Gemini%20API-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+    </a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    </a>
   </p>
 </div>
 
