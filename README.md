@@ -1,7 +1,16 @@
-# OCRBridge
-
-AI-powered receipt processing for Indian logistics workflows.
-OCRBridge is a lightweight pipeline that converts receipt documents into structured, usable business data.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=OCRBridge&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="OCRBridge Banner" />
+  <h1>OCRBridge</h1>
+  <p><strong>AI-powered receipt processing for Indian logistics workflows.</strong></p>
+  <p>OCRBridge is a lightweight pipeline that converts receipt documents into structured, usable business data.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+    <img src="https://img.shields.io/badge/Gemini%20API-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  </p>
+</div>
 
 ## What It Does
 
