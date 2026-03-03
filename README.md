@@ -48,7 +48,7 @@ flowchart TD
 1. Clone and enter project:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/tanishra/ocr-bridge.git
 cd ocrbridge
 ```
 
@@ -64,9 +64,9 @@ pip install -r requirements.txt
 
 ```env
 GEMINI_API_KEY=...
-GEMINI_MODEL=gemini-3-flash-preview
+GEMINI_MODEL=...
 TELEGRAM_BOT_TOKEN=...
-DATABASE_URL=sqlite:///ocrbridge.db
+DATABASE_URL=...
 GOOGLE_SHEETS_CREDENTIALS=credentials.json
 GOOGLE_SHEET_ID=...
 
