@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=OCRBridge&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="OCRBridge Banner" />
-  <h1>OCRBridge</h1>
   <p><strong>AI-powered receipt processing for Indian logistics workflows.</strong></p>
   <p>OCRBridge is a lightweight pipeline that converts receipt documents into structured, usable business data.</p>
   <p>
